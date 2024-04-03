@@ -4,7 +4,7 @@
 Para este primer proyecto del bootcamp de Data Science vamos a contruir un Robot Trading (sencillo) en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real, comparto con todo el amor del mundo mi trabajo para que más personas puedan formarse en este mundo de la Ciencia de Datos.
 
 
-[@Antonio Richaud](https://www.linkedin.com/in/antonio-richaud/)
+[@Antonio Richaud](https://www.antonio-richaud.com/)
 
 
 ![Logo](https://www.aluracursos.com/assets/img/challenges/logos/challenges-logo-data.1712144089.svg)
@@ -28,5 +28,5 @@ Para este primer proyecto del bootcamp de Data Science vamos a contruir un Robot
 
 ## Información que me ayudo
 
- - [Portafolio](https://antonio-richaud.com)
- - [Portafolio](https://antonio-richaud.com)
+ - [yFinance](https://pypi.org/project/yfinance/)
+ - [Modulo: Display](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html)
