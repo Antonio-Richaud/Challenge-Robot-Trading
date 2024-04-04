@@ -1,13 +1,15 @@
 
 # Challenge-Robot-Trading 🤓📊👾
 
-Para este primer proyecto del bootcamp de Data Science vamos a contruir un Robot Trading (sencillo) en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real, comparto con todo el amor del mundo mi trabajo para que más personas puedan formarse en este mundo de la Ciencia de Datos.
+Para este primer proyecto del bootcamp de Data Science vamos a contruir un Robot Trading (sencillo) en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real, comparto con todo el amor del mundo mi trabajo para que más personas puedan formarse en este mundo de la Ciencia de Datos. #aluraChallengeRobotTrading
 
 
 [@Antonio Richaud](https://www.antonio-richaud.com/)
 
 
 ![Logo](https://www.aluracursos.com/assets/img/challenges/logos/challenges-logo-data.1712144089.svg)
+
+![Insignia](https://cdn.discordapp.com/attachments/1225165015015751750/1225442145033261139/challenge_1.png?ex=662124ee&is=660eafee&hm=5b85f2595f972f06c05cc4a1f85a967a72828a8589695fc0d384a877318e3bf2&)
 
 
 ## Pasos a seguir
@@ -24,7 +26,13 @@ Para este primer proyecto del bootcamp de Data Science vamos a contruir un Robot
 
 6. **Automatización:** Finalmente, cuando tengamos el algoritmo de decisión, es hora de automatizar el proceso. Utiliza la librería de Python "time" para ejecutar el algoritmo de decisión cada 5 minutos y actualizar el gráfico. 🤠
 
+## Proximos pasos
 
+1. **Incluir más criptomonedas y tipos de monedas**
+
+2. **Conectar una cuenta de Bynance para probar rendimiento del algoritmo** 
+
+3. **Construir sitio web para la visualización de inversión y rendimiento**
 
 ## Información que me ayudo
 
