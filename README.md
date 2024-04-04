@@ -30,7 +30,7 @@ Para este primer proyecto del bootcamp de Data Science vamos a contruir un Robot
 
 1. **Incluir más criptomonedas y tipos de monedas**
 
-2. **Conectar una cuenta de Bynance para probar rendimiento del algoritmo** 
+2. **Conectar una cuenta de Binance para probar rendimiento del algoritmo** 
 
 3. **Construir sitio web para la visualización de inversión y rendimiento**
 
