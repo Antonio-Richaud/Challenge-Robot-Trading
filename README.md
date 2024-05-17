@@ -9,7 +9,7 @@ Para este primer proyecto del bootcamp de Data Science vamos a contruir un Robot
 
 ![Logo](https://www.aluracursos.com/assets/img/challenges/logos/challenges-logo-data.1712144089.svg)
 
-![Insignia](https://cdn.discordapp.com/attachments/1225165015015751750/1225442145033261139/challenge_1.png?ex=662124ee&is=660eafee&hm=5b85f2595f972f06c05cc4a1f85a967a72828a8589695fc0d384a877318e3bf2&)
+![Insignia](./imagenes/challenge_robot-trading.png)
 
 
 ## Pasos a seguir
